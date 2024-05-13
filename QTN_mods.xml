@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="tib" script="Tibt">
+        <title>མཚོ་སྔོན་བོད་ཡིག་གསར་འགྱུར་</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>mtsho sngon bod yig gsar ʻgyur</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Hant">
+        <title>青海藏文報</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Latn">
+        <title>qinghai zangwen bao</title>
+    </titleInfo>
+    <titleInfo type="translated">
+        <title>Qinghai Tibetan News</title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཟི་ལིང་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">zi ling</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Hant">西寧</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Latn">Xining</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Xining</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">Qinghai</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                        >མཚོ་སྔོན་</placeTerm>
+                    <place>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                            >ཟི་ལིང་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">zi
+                            ling</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="eng">Xining</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
+                            >西寧</placeTerm>
+                    </place>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <frequency>every 5 days; every 2 days in the late 1950s</frequency>
+        <dateIssued encoding="w3cdtf" point="start">16.01.1951</dateIssued>
+        <dateIssued encoding="w3cdtf" point="end">continuing</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>མཚོ་སྔོན་ཉིན་རེའི་ཚགས་པར་ཁང་</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>mtsho sngon nyin reʻi tshags par khang</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>青海报社</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>qinghai baoshe</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <identifier type="local">CN63-0001-Z</identifier>
+    <physicalDescription>
+        <form>39,5x55 cm</form>
+    </physicalDescription>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <language>
+        <languageTerm type="code" authority="iso639-2">cn</languageTerm>
+    </language>
+    <note>2 to 4 pages; the last page often in Chinese</note>
+    <note>IT; MV; SB; CU; OI</note>
+    <note>Qinghai</note>
+    <note>1951.09.16 - 1965.12.30 (incomplete)</note>
+    <relatedItem type="host">
+        <location>
+            <url>https://zdb-katalog.de/title.xhtml?idn=1286005965;
+                https://zdb-katalog.de/title.xhtml?idn=1287993648;
+                https://clio.columbia.edu/catalog/4770861;
+                https://kramerius.lib.cas.cz/uuid/uuid:cfcdc3e7-3244-40f5-9cb0-fbe5f6797bfc; </url>
+        </location>
+    </relatedItem>
+</mods>

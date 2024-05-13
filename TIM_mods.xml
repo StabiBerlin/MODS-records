@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="eng" script="{}">
+        <title>&amp;quot;Tibet Mirror&amp;quot;</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Tibt">
+        <title>ཡུལ་ཕྱོགས་སོ་སོའི་གསར་འགྱུར་མེ་ལོང་</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>yul phyogs so soʻi gsar ʻgyur me long</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Latn">
+        <title> </title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཀ་སྦུག</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">ka sbug</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Kālimpong, W.B.</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">IND</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">West Bengal</placeTerm>
+                    <place>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                            >ཀ་སྦུག</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">ka
+                            sbug</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="eng">Kalimpong</placeTerm>
+                    </place>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <frequency>monthly, from XXX to XXX weekly</frequency>
+        <dateIssued encoding="w3cdtf" point="start">1926</dateIssued>
+        <dateIssued encoding="w3cdtf" point="end">vol. 28(8) 01.11.1963</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>མེ་ལོང་པར་ཁང་</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>me long par khang</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>The Mirror Press</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Dorje Tharchin</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>རྡོ་རྗེ་མཐར་ཕྱིན་</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Rdo rje mthar phyin</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <identifier type="local">Regd. C. 1386</identifier>
+    <physicalDescription>
+        <form>22x39 cm</form>
+    </physicalDescription>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <language>
+        <languageTerm type="code" authority="iso639-2">en</languageTerm>
+    </language>
+    <note>CU; MV;</note>
+    <note>India</note>
+    <note>1930.03.31 - 1963.11.01</note>
+    <relatedItem type="host">
+        <location>
+            <url>https://zdb-katalog.de/title.xhtml?idn=1284225577;
+                https://clio.columbia.edu/catalog/6816438;
+                https://permalink.obvsg.at/AC16810250</url>
+        </location>
+    </relatedItem>
+</mods>

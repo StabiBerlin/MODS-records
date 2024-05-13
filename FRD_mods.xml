@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="eng" script="{}">
+        <title>&amp;quot;Freedom&amp;quot;</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Tibt">
+        <title>རང་དབང་གསར་ཤོག</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>rang dbang gsar shog</title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                >རྡོ་རྗེ་གླིང་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">rdo rje
+                gling</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Darjeeling</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">IND</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">West Bengal</placeTerm>
+                    <place>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                            >རྡོ་རྗེ་གླིང་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">rdo rje
+                            gling</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="eng">Darjeeling</placeTerm>
+                    </place>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <frequency>weekly</frequency>
+        <dateIssued encoding="w3cdtf" point="start">1960</dateIssued>
+        <dateIssued encoding="w3cdtf" point="end">1965</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>རང་དབང་པར་ཁང་</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>rang dbang par khang</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Freedom Press</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>ཡེ་ཤེས་དར་རྒྱས་</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Ye shes dar rgyas</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <identifier type="local">Regd. No. 5156</identifier>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <note>IT</note>
+    <note>India</note>
+    <note>1961.02.10 - 1965.03.05 (incomplete)</note>
+    <relatedItem type="host">
+        <location>
+            <url>https://permalink.obvsg.at/AC16809715</url>
+        </location>
+    </relatedItem>
+</mods>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="tib" script="Tibt">
+        <title>ཀུན་ཁྱབ་རླུང་འཕྲིན་གསར་འགྱུར་</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>kun khyab rlung ʻphrin gsar ʻgyur</title>
+    </titleInfo>
+    <titleInfo type="translated">
+        <title>Universal Radio News</title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">པེ་ཅིན་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">pe cin</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Latn">Beijing</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                        >པེ་ཅིན་</placeTerm>
+                    <place/>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <dateIssued encoding="w3cdtf" point="start">unknown</dateIssued>
+        <dateIssued encoding="w3cdtf" point="end">unknown</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>མི་རིགས་དཔེ་བསྐྲུན་ཁང་</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>mi rigs dpe bskrun khang</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <language>
+        <languageTerm type="code" authority="iso639-2">cn</languageTerm>
+    </language>
+    <note>MV</note>
+    <note>China</note>
+    <note>not scanned so far</note>
+</mods>

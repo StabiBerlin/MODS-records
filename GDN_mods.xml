@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="tib" script="Tibt">
+        <title>དཀར་མཛེས་ཉིན་རེའི་གསར་འགྱུར་</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>dkar mdzes nyin reʻi gsar ʻgyur</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Hant">
+        <title>甘孜日報</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Latn">
+        <title>ganzi ribao</title>
+    </titleInfo>
+    <titleInfo type="translated">
+        <title>Ganze Daily</title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">དར་རྩེ་མདོ་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">dar rtse
+                mdo</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Hant">康定</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Latn">Kangding</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Dartsedo</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                        >སི་ཁྲོན་</placeTerm>
+                    <place>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                            >དཀར་མཛེས་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">dkar
+                            mdzes</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="eng">Ganzi</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
+                            >甘孜</placeTerm>
+                    </place>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <frequency>daily</frequency>
+        <dateIssued encoding="w3cdtf" point="start">05.1958</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>甘孜州委宣傳部</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>ganzi zhou weixuanchuanbu</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <identifier type="local">CN51-0018-Z</identifier>
+    <physicalDescription>
+        <form>27x39 cm</form>
+    </physicalDescription>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <language>
+        <languageTerm type="code" authority="iso639-2"> 40 cm</languageTerm>
+    </language>
+    <note>daily except Mondays</note>
+    <note>OI; RB</note>
+    <note>Ganzi</note>
+    <note>RB: 1959.10.30; 1959.10.31</note>
+    <note>1959.01.03 - 1959.10.31 (incomplete)</note>
+    <relatedItem type="host">
+        <location>
+            <url>https://kramerius.lib.cas.cz/search/handle/uuid:57f54914-9dc6-4f0d-9edc-e63b48636b2e</url>
+        </location>
+    </relatedItem>
+</mods>

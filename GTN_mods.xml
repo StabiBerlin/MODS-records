@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="tib" script="Tibt">
+        <title>གོ་རྟོགས། གཟའ་འཁོར་རེའི་ཚགས་པར་</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>go rtogs</title>
+    </titleInfo>
+    <titleInfo type="translated">
+        <title>Understanding. Weekly Newspaper</title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">གློ་སྨོན་ཐང</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">glo smon
+                thang</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">NPL</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">Mustang</placeTerm>
+                    <place>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                            >གློ་སྨོན་ཐང</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">glo smon
+                            thang</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="eng">Mustang</placeTerm>
+                    </place>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <frequency>weekly</frequency>
+        <dateIssued encoding="w3cdtf" point="start">unknown</dateIssued>
+        <dateIssued encoding="w3cdtf" point="end">unknown</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>Lhamo Tsering</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>ལྷ་མོ་ཚེ་རིང་</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Lha mo tshe ring</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <note>newspaper was purportedly produced in Darjeeling; foto of paper provided by Tenzin
+        Sonam</note>
+    <note>TS</note>
+    <note>Mustang</note>
+    <note>TS: 1 undated issue</note>
+    <note>1 undated issue</note>
+</mods>

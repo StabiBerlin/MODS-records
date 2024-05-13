@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="tib" script="Tibt">
+        <title>མིང་ཀྱཱང་ཚགས་དཔར་</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>ming kyāng tshags dpar</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Hant">
+        <title>岷江報</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Latn">
+        <title>minjiang bao</title>
+    </titleInfo>
+    <titleInfo type="translated">
+        <title>Minjiang River News</title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">མོང་ཞན་; ལྷ་རྒྱལ་གླིང་;
+                འབར་ཁམས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">mong zhan; lha rgyal
+                gling; ʻbar khams</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Hant">茂縣; 馬爾康</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Latn">Maoxian;
+                Maerkang</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Maoxian; Barkam</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                        >སི་ཁྲོན་</placeTerm>
+                    <place>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                            >རྔ་བ་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">rnga
+                            ba</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="eng">Aba</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
+                            >阿壩</placeTerm>
+                    </place>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <frequency>every 5 days</frequency>
+        <dateIssued encoding="w3cdtf" point="start">1953</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>མོང་ཞན་ཕྱོགས་ལ་དཔར་ཁང་</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>mong zhan phyogs la dpar khang</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <identifier type="local">16</identifier>
+    <physicalDescription>
+        <form>27x39,5 cm</form>
+    </physicalDescription>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <language>
+        <languageTerm type="code" authority="iso639-2">cn</languageTerm>
+    </language>
+    <note>4 pages in Tibetan with some Chines in the inner margins. Title changed to Ming kyang gsar
+        ʻgyur on May 1, 1955. From 1981 it becomes the Rnga ba gsar ʻgyur (Aba bao) which continues
+        today</note>
+    <note>MV; OI</note>
+    <note>Ngawa</note>
+    <note>1953.06.01 - 1959.03.28 (incomplete)</note>
+    <relatedItem type="host">
+        <location>
+            <url>https://zdb-katalog.de/title.xhtml?idn=1284121666;
+                https://kramerius.lib.cas.cz/uuid/uuid:d61a114e-f776-4dce-9c09-865eb703e177</url>
+        </location>
+    </relatedItem>
+</mods>

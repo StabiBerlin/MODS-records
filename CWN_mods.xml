@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="eng" script="{}">
+        <title>&amp;quot;Central Weekly News&amp;quot;</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Tibt">
+        <title>ཀྲུང་དབྱང་གསར་འགྱུར་</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>krung dbyang gsar ʻgyur</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Hant">
+        <title>中央週報</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Latn">
+        <title>zhong yang zhou bao</title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཀ་ཏ་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">ka ta</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Calcutta</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">IND</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">West Bengal</placeTerm>
+                    <place>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                            >ཀ་ལིཀ་ཏ</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">ka
+                            ta</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="eng">Calcutta</placeTerm>
+                    </place>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <frequency>weekly</frequency>
+        <dateIssued encoding="w3cdtf" point="start">Vol. 1(1) 12.02.1963</dateIssued>
+        <dateIssued encoding="w3cdtf" point="end">1978?</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>གོ་མིན་ཏཱང་ཀྲུང་དབྱང་གསར་འགྱུར་པར་ཁང་</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>go min tāng krung dbyang gsar ʻgyur khang</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Tempa Landu</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>བསྟན་པ་ལྷུན་འགྲུབ་</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart> Bstan pa lhun ʻgrub</namePart>
+        <role>
+            <roleTerm type="text">editor_person</roleTerm>
+        </role>
+    </name>
+    <identifier type="local">Reg. No. R. N. 8594/36</identifier>
+    <physicalDescription>
+        <form>38x51 cm</form>
+    </physicalDescription>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <note>Republican years on newspaper</note>
+    <note>IT; UW</note>
+    <note>India</note>
+    <note>1963.02.12 - 1972 (incomplete)</note>
+    <relatedItem type="host">
+        <location>
+            <url>https://permalink.obvsg.at/AC16810977;
+                https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1juclfo/alma99133499060001452</url>
+        </location>
+    </relatedItem>
+</mods>

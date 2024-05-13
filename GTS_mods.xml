@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+    <titleInfo lang="tib" script="Tibt">
+        <title> རྒྱལ་རྩེ་གསར་འགྱུར་</title>
+    </titleInfo>
+    <titleInfo lang="tib" script="Latn">
+        <title>rgyal rtse gsar ʻgyur</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Hant">
+        <title>江孜報</title>
+    </titleInfo>
+    <titleInfo lang="chi" script="Latn">
+        <title>jiangzi bao</title>
+    </titleInfo>
+    <titleInfo type="translated">
+        <title>Gyangtse Daily News</title>
+    </titleInfo>
+    <originInfo>
+        <place>
+            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">རྒྱལ་རྩེ</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" script="Latn">rgyal rtse</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Hant">江孜</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" script="Latn">Jiangzi</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Gyangtse</placeTerm>
+            <place>
+                <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+                <place>
+                    <placeTerm type="text" authority="marc" lang="eng">Tibet</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                        >བོད་ལྗོངས་</placeTerm>
+                    <place>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
+                            >རྒྱལ་རྩེ་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">rgyal
+                            rtse</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="eng">Jiangzi</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
+                            >江孜</placeTerm>
+                    </place>
+                </place>
+            </place>
+        </place>
+    </originInfo>
+    <originInfo>
+        <dateIssued encoding="w3cdtf" point="start">1954</dateIssued>
+    </originInfo>
+    <name>
+        <namePart>རྒྱལ་རྩེ་སློབ་སྦྱོང་དབུ་ཡོན་ལས་ཁུངས་</namePart>
+        <role>
+            <roleTerm type="text">publisher</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm type="code" authority="iso639-2">bo</languageTerm>
+    </language>
+    <note>TL</note>
+    <note>Gyangtse</note>
+    <note>TL: 1954.02.10</note>
+    <note>1954.02.10 (incomplete)</note>
+</mods>
