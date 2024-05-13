@@ -26,16 +26,13 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Qinghai</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >མཚོ་སྔོན་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">མཚོ་སྔོན་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >ཟི་ལིང་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཟི་ལིང་</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">zi
                             ling</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Xining</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
-                            >西寧</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">西寧</placeTerm>
                     </place>
                 </place>
             </place>

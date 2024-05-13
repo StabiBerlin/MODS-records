@@ -18,11 +18,9 @@
                 <placeTerm type="text" authority="marc" lang="eng">IND</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Sikkim</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >འབྲས་ལྗོངས་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">འབྲས་ལྗོངས་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >གང་ཐོག་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">གང་ཐོག་</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">gang
                             thog</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Gangtok</placeTerm>

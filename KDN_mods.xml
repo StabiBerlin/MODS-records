@@ -27,17 +27,14 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Xikang</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >ཤིས་ཁམས་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཤིས་ཁམས་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >ཤིས་ཁམས་བོད་རིགས་རང་སྐྱོང་ས་ཁུལ་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཤིས་ཁམས་བོད་རིགས་རང་སྐྱོང་ས་ཁུལ་</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">dkar
                             mdzes</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Xikang Province Tibetan
                             Autonomous Region</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
-                            >西康省藏族自治區</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">西康省藏族自治區</placeTerm>
                     </place>
                 </place>
             </place>

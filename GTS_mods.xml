@@ -26,16 +26,13 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Tibet</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >བོད་ལྗོངས་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">བོད་ལྗོངས་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >རྒྱལ་རྩེ་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">རྒྱལ་རྩེ་</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">rgyal
                             rtse</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Jiangzi</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
-                            >江孜</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">江孜</placeTerm>
                     </place>
                 </place>
             </place>

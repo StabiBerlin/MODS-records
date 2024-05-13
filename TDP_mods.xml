@@ -26,16 +26,13 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Tibet</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >བོད་ལྗོངས་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">བོད་ལྗོངས་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >ལྷ་ས་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ལྷ་ས་</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">lha
                             sa</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Lhasa</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
-                            >拉薩</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">拉薩</placeTerm>
                     </place>
                 </place>
             </place>

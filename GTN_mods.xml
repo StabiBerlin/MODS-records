@@ -19,8 +19,7 @@
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Mustang</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >གློ་སྨོན་ཐང</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">གློ་སྨོན་ཐང</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">glo smon
                             thang</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Mustang</placeTerm>

@@ -29,16 +29,13 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >སི་ཁྲོན་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">སི་ཁྲོན་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >རྔ་བ་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">རྔ་བ་</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">rnga
                             ba</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Aba</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
-                            >阿壩</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">阿壩</placeTerm>
                     </place>
                 </place>
             </place>

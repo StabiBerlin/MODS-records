@@ -22,8 +22,7 @@
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">West Bengal</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >ཀ་སྦུག</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཀ་སྦུག</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">ka
                             sbug</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Kalimpong</placeTerm>

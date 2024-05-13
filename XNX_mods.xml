@@ -26,16 +26,13 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >སི་ཁྲོན་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">སི་ཁྲོན་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >ཁྲེན་ཏུའུ་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཁྲེན་ཏུའུ་</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">khren
                             tuʻu</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Chengdu</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
-                            >成都</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">成都</placeTerm>
                     </place>
                 </place>
             </place>

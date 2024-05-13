@@ -26,16 +26,13 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Beijing</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >པེ་ཅིན་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">པེ་ཅིན་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >པེ་ཅིན་</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">པེ་ཅིན་</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">pe
                             cin</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
-                            >北京</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">北京</placeTerm>
                     </place>
                 </place>
             </place>

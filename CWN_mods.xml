@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mods xmlns="http://www.loc.gov/mods/v3">
-    <titleInfo lang="eng" script="{}">
+    <titleInfo lang="eng">
         <title>&amp;quot;Central Weekly News&amp;quot;</title>
     </titleInfo>
     <titleInfo lang="tib" script="Tibt">
@@ -25,8 +25,7 @@
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">West Bengal</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >ཀ་ལིཀ་ཏ</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཀ་ལིཀ་ཏ</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">ka
                             ta</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Calcutta</placeTerm>

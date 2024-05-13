@@ -26,16 +26,13 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Gansu</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >ཀན་སུའུ་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཀན་སུའུ་</placeTerm>
                     <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                            >ཀན་ལྷོ</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ཀན་ལྷོ</placeTerm>
                         <placeTerm type="text" authority="marc" lang="tib" script="Latn">kan
                             lho</placeTerm>
                         <placeTerm type="text" authority="marc" lang="eng">Gannan</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant"
-                            >甘南</placeTerm>
+                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">甘南</placeTerm>
                     </place>
                 </place>
             </place>

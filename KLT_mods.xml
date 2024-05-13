@@ -19,8 +19,7 @@
                 <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
                 <place>
                     <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt"
-                        >པེ་ཅིན་</placeTerm>
+                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">པེ་ཅིན་</placeTerm>
                     <place/>
                 </place>
             </place>
