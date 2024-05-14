@@ -1,0 +1,19 @@
+name: validate
+
+on: [push]
+# on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+       
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Test Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils
+
+      - name: Ensure mods validates against 3.8 
+        run: xmllint --noout --schema http://www.loc.gov/standards/mods/v3/mods-3-8.xsd *.xml 
