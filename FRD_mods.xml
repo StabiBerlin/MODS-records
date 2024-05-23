@@ -26,31 +26,31 @@
         <frequency>weekly</frequency>
         <dateIssued encoding="w3cdtf" point="start">1960</dateIssued>
     </originInfo>
-    <name lang="">
+    <name>
         <namePart>རང་དབང་པར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>rang dbang par khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Freedom Press</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>ཡེ་ཤེས་དར་རྒྱས་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Ye shes dar rgyas</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>

@@ -26,37 +26,37 @@
         <frequency>monthly, from XXX to XXX weekly</frequency>
         <dateIssued encoding="w3cdtf" point="start">1926</dateIssued>
     </originInfo>
-    <name lang="">
+    <name>
         <namePart>མེ་ལོང་པར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>me long par khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>The Mirror Press</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Dorje Tharchin</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>རྡོ་རྗེ་མཐར་ཕྱིན་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Rdo rje mthar phyin</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>

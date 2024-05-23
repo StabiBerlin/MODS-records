@@ -33,31 +33,31 @@
         <frequency>every 5 days</frequency>
         <dateIssued encoding="w3cdtf" point="start">01.1953</dateIssued>
     </originInfo>
-    <name lang="">
+    <name>
         <namePart>ལྷ་ས་གསར་འགྱུར་མདོར་བསྡུས་ཁང་; རྩོམ་ཞིབ་ཨུ་ཡོན་ལྷན་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>lha sa gsar ʻgyur mdor bsdus khang; rtsom zhib u yon lhan khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>西藏軍區藏文編審委員會</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>xizang junqu zangwen bianzhen weiyua hui</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Publications Office of the Tibet Military District </namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>

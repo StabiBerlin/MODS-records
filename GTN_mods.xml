@@ -25,19 +25,19 @@
         <frequency>weekly</frequency>
         <dateIssued encoding="w3cdtf" point="start">unknown</dateIssued>
     </originInfo>
-    <name lang="">
+    <name>
         <namePart>Lhamo Tsering</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>ལྷ་མོ་ཚེ་རིང་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Lha mo tshe ring</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>

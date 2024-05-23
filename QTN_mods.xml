@@ -33,25 +33,25 @@
         <frequency>every 5 days; every 2 days in the late 1950s</frequency>
         <dateIssued encoding="w3cdtf" point="start">16.01.1951</dateIssued>
     </originInfo>
-    <name lang="">
+    <name>
         <namePart>མཚོ་སྔོན་ཉིན་རེའི་ཚགས་པར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>mtsho sngon nyin reʻi tshags par khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>青海报社</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>qinghai baoshe</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>

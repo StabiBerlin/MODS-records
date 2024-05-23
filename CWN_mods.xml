@@ -29,31 +29,31 @@
         <frequency>weekly</frequency>
         <dateIssued encoding="w3cdtf" point="start">Vol. 1(1) 12.02.1963</dateIssued>
     </originInfo>
-    <name lang="">
+    <name>
         <namePart>གོ་མིན་ཏཱང་ཀྲུང་དབྱང་གསར་འགྱུར་པར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>go min tāng krung dbyang gsar ʻgyur khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Tempa Landu</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>བསྟན་པ་ལྷུན་འགྲུབ་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart> Bstan pa lhun ʻgrub</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>

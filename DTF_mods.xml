@@ -26,37 +26,37 @@
         <frequency>every 10 days</frequency>
         <dateIssued encoding="w3cdtf" point="start">1963</dateIssued>
     </originInfo>
-    <name lang="">
+    <name>
         <namePart>རང་དབང་སྲུང་སྐྱོབ་པར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>rang dbang srung skyob par khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Defend Tibetʻs Freedom Press</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Lhamo Tsering</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>ལྷ་མོ་ཚེ་རིང་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="">
+    <name>
         <namePart>Lha mo tshe ring</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
