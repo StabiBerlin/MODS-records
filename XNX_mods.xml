@@ -29,7 +29,7 @@
             <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
         </place>
     </originInfo>
-    <originInfo/>
+    
     <physicalDescription>
         <form>40 cm</form>
     </physicalDescription>
