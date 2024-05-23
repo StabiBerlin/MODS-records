@@ -1,4 +1,5 @@
 # DIVERGE mods records
+This is the repo containing MODS files for the corpus of the Divergent Discourses project. 
 
 ## Changes
 

@@ -1,75 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    version="3.8"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
-    <titleInfo lang="tib" script="Tibt">
+    version="3.8" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+    <titleInfo lang="tib">
         <title>གསར་འགྱུར་མདོར་བསྡུས་</title>
     </titleInfo>
-    <titleInfo lang="tib" script="Latn">
+    <titleInfo lang="tib" transliteration="Wylie">
         <title>gsar ʻgyur mdor bsdud</title>
     </titleInfo>
-    <titleInfo lang="chi" script="Hant">
+    <titleInfo lang="chi">
         <title>新聞簡訊</title>
-    </titleInfo>
-    <titleInfo lang="chi" script="Latn">
-        <title>xinwen jianxun</title>
     </titleInfo>
     <titleInfo type="translated">
         <title>News in Brief</title>
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ལྷ་ས་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" script="Latn">lha sa</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" script="Hant">拉薩</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" script="Latn">Lasa</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">ལྷ་ས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" transliteration="ISO">lha sa</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">拉薩</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" transliteration="ISO">Lasa</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Lhasa</placeTerm>
-            <place>
-                <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
-                <place>
-                    <placeTerm type="text" authority="marc" lang="eng">Tibet</placeTerm>
-                    <placeTerm type="text" authority="marc" lang="tib" script="Tibt">བོད་ལྗོངས་</placeTerm>
-                    <place>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Tibt">ལྷ་ས་</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="tib" script="Latn">lha
-                            sa</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="eng">Lhasa</placeTerm>
-                        <placeTerm type="text" authority="marc" lang="chi" script="Hant">拉薩</placeTerm>
-                    </place>
-                </place>
-            </place>
+            <placeTerm type="text" authority="marc" lang="eng">Tibet</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">བོད་ལྗོངས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">ལྷ་ས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" transliteration="ISO">lha sa</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">拉薩</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Lhasa</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
         </place>
     </originInfo>
     <originInfo>
         <frequency>every 5 days</frequency>
         <dateIssued encoding="w3cdtf" point="start">01.1953</dateIssued>
-        <dateIssued encoding="w3cdtf" point="end">1955</dateIssued>
     </originInfo>
-    <name>
+    <name lang="">
         <namePart>ལྷ་ས་གསར་འགྱུར་མདོར་བསྡུས་ཁང་; རྩོམ་ཞིབ་ཨུ་ཡོན་ལྷན་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name>
+    <name lang="">
         <namePart>lha sa gsar ʻgyur mdor bsdus khang; rtsom zhib u yon lhan khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name>
+    <name lang="">
         <namePart>西藏軍區藏文編審委員會</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name>
+    <name lang="">
         <namePart>xizang junqu zangwen bianzhen weiyua hui</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name>
+    <name lang="">
         <namePart>Publications Office of the Tibet Military District </namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
@@ -81,8 +69,6 @@
     <language>
         <languageTerm type="code" authority="iso639-2">bo</languageTerm>
     </language>
-    <note>4 pages in Tibetan cursive Ume script; from May 4, 1955 it is printed in movable type; at
-        the same time a larger format was introduced </note>
     <note>MV; TL</note>
     <note>Tibet</note>
     <note>TL: 1953.12.01; 1953.12.16;</note>
@@ -93,4 +79,8 @@
                 https://zdb-katalog.de/title.xhtml?idn=1284129411</url>
         </location>
     </relatedItem>
+    <recordInfo>
+        <recordOrigin>Automatically generated by script (author Engels, James J.)</recordOrigin>
+        <recordCreationDate encoding="w3cdtf">2024-05-21</recordCreationDate>
+    </recordInfo>
 </mods>
