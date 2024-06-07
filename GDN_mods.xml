@@ -33,13 +33,13 @@
         <frequency>daily</frequency>
         <dateIssued encoding="w3cdtf" point="start">05.1958</dateIssued>
     </originInfo>
-    <name lang="chinese">
+    <name lang="chi">
         <namePart>甘孜州委宣傳部</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="pinyin">
+    <name lang="chi" script="Latn" transliteration="pinyin">
         <namePart>ganzi zhou weixuanchuanbu</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>

@@ -31,13 +31,13 @@
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>ལྷ་མོ་ཚེ་རིང་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>Lha mo tshe ring</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>

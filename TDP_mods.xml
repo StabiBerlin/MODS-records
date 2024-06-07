@@ -29,13 +29,13 @@
             <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
         </place>
     </originInfo>
-    <name lang="chinese">
+    <name lang="chi">
         <namePart>西藏自治區籌備委員會</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="pinyin">
+    <name lang="chi" script="Latn" transliteration="pinyin">
         <namePart>xizang zizhiqu choubei weiyuanhui</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>

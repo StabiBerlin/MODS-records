@@ -57,7 +57,7 @@ This is the repo containing MODS files for the corpus of the Divergent Discourse
   ```
 
 - [x] Missing `@transliteration` attribute on elements with with `tib-Latn` or `chi-Latn`
-- [ ] empty `<originInfo/>` is invalid see #2
+- [x] empty `<originInfo/>` is invalid see #2
 - [ ] inconsistent use of `@lang` / `@xml:lang` attribute. The language of the record is not defined, in `<languageOfCataloging>`. Consequently elements like `<name>`, or `@type="translated"` are without language data. see #3
 - [x] `<recordInfo>` is missing.
 - [x] `<mods>` root is missing desirable attributes `@version`, `@schemaLocation`, `@xmlns:xsi`:

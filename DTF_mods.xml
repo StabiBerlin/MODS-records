@@ -26,13 +26,13 @@
         <frequency>every 10 days</frequency>
         <dateIssued encoding="w3cdtf" point="start">1963</dateIssued>
     </originInfo>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>རང་དབང་སྲུང་སྐྱོབ་པར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>rang dbang srung skyob par khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
@@ -50,13 +50,13 @@
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>ལྷ་མོ་ཚེ་རིང་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>Lha mo tshe ring</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>

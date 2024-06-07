@@ -26,13 +26,13 @@
     <originInfo>
         <dateIssued encoding="w3cdtf" point="start">unknown</dateIssued>
     </originInfo>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>རྒྱ་གར་གཞུང་གི་གསར་སྤེལ་ལས་ཁུང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>rgya gar gzhung gi gsar spel las khungs</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>

@@ -33,25 +33,25 @@
         <frequency>every 5 days</frequency>
         <dateIssued encoding="w3cdtf" point="start">01.05.1953</dateIssued>
     </originInfo>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>ཀན་ལྷོ་ཉིན་རེའི་གསར་འགྱུར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>kan lho nyin reʻi gsar ʻgyur khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="chinese">
+    <name lang="chi">
         <namePart>赣南日报社</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="pinyin">
+    <name lang="chi" script="Latn" transliteration="pinyin">
         <namePart>gannan ribaoshe</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>

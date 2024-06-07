@@ -26,13 +26,13 @@
         <frequency>daily, from October 2, 1969 weekly</frequency>
         <dateIssued encoding="w3cdtf" point="start">1965</dateIssued>
     </originInfo>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>བོད་མིའི་རང་དབང་པར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>bod miʻi rang dbang par khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
@@ -44,13 +44,13 @@
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>རྒྱ་རི་སྤྲུལ་སྐུ་བློ་གྲོས་རྒྱལ་མཚན་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>Rgya ri sprul sku Blo gros rgyal mtshan</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>

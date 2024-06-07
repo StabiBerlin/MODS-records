@@ -33,13 +33,13 @@
         <frequency>every 5 days</frequency>
         <dateIssued encoding="w3cdtf" point="start">1953</dateIssued>
     </originInfo>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>མོང་ཞན་ཕྱོགས་ལ་དཔར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>mong zhan phyogs la dpar khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>

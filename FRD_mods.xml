@@ -26,13 +26,13 @@
         <frequency>weekly</frequency>
         <dateIssued encoding="w3cdtf" point="start">1960</dateIssued>
     </originInfo>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>རང་དབང་པར་ཁང་</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>rang dbang par khang</namePart>
         <role>
             <roleTerm type="text">publisher</roleTerm>
@@ -44,13 +44,13 @@
             <roleTerm type="text">publisher</roleTerm>
         </role>
     </name>
-    <name lang="tibetan">
+    <name lang="tib">
         <namePart>ཡེ་ཤེས་དར་རྒྱས་</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
         </role>
     </name>
-    <name lang="wylie">
+    <name lang="tib" transliteration="wylie">
         <namePart>Ye shes dar rgyas</namePart>
         <role>
             <roleTerm type="text">editor_person</roleTerm>
