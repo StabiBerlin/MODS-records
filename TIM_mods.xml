@@ -12,14 +12,14 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཀ་སྦུག</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">ཀ་སྦུག</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ka sbug</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Kālimpong, W.B.</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">West Bengal</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཀ་སྦུག</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ka sbug</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Kālimpong</placeTerm>
+           
+         
             <placeTerm type="text" authority="marc" lang="eng">Kalimpong</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">IND</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/4346328-9</placeIdentifier>
+			
         </place>
     </originInfo>
     <originInfo>
