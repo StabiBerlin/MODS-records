@@ -12,15 +12,14 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">སྒང་ཐོག</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">སྒང་ཐོག</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">sgang thog</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Gangtok</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Sikkim</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">འབྲས་ལྗོངས་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">གང་ཐོག་</placeTerm>
+            
+            
+            <placeTerm type="text" authority="marc" lang="tib">གང་ཐོག་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">gang thog</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Gangtok</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">IND</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/4376532-4</placeIdentifier>
         </place>
     </originInfo>
     <originInfo>
