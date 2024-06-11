@@ -15,18 +15,17 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">དར་རྩེ་མདོ་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">དར་རྩེ་མདོ་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">dar rtse mdo</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">康定</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">康定</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Kangding</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Dartsedo</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">སི་ཁྲོན་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">དཀར་མཛེས་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">dkar mdzes</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">甘孜</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Ganzi</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+            
+           
+       
+            <placeTerm type="text" authority="marc" lang="chi" >甘孜</placeTerm>
+			<placeIdentifier>https://d-nb.info/gnd/1150249846</placeIdentifier>
+           
         </place>
     </originInfo>
     <originInfo>
