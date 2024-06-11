@@ -15,18 +15,16 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">མོང་ཞན་; ལྷ་རྒྱལ་གླིང་; འབར་ཁམས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">མོང་ཞན་; ལྷ་རྒྱལ་གླིང་; འབར་ཁམས་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">mong zhan; lha rgyal gling; ʻbar khams</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">茂縣; 馬爾康</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">茂縣; 馬爾康</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Maoxian; Maerkang</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Maoxian; Barkam</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">སི་ཁྲོན་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">རྔ་བ་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">rnga ba</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">阿壩</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Aba</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+            
+            
+            <placeTerm type="text" authority="marc" lang="chi">阿壩</placeTerm>
+			<placeIdentifier>https://d-nb.info/gnd/1151895776</placeIdentifier>
+            	
         </place>
     </originInfo>
     <originInfo>
