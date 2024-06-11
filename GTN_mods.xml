@@ -12,13 +12,11 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">གློ་སྨོན་ཐང</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">གློ་སྨོན་ཐང</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">glo smon thang</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Mustang</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">གློ་སྨོན་ཐང</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">glo smon thang</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Mustang</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">NPL</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/4495999-0</placeIdentifier>
+           
         </place>
     </originInfo>
     <originInfo>
