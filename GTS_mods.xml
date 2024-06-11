@@ -15,18 +15,15 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">རྒྱལ་རྩེ</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">རྒྱལ་རྩེ</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">rgyal rtse</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">江孜</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">江孜</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Jiangzi</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Gyangtse</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Tibet</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">བོད་ལྗོངས་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">རྒྱལ་རྩེ་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">rgyal rtse</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">江孜</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Jiangzi</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/4238529-5</placeIdentifier>
+            
+          	
+           
         </place>
     </originInfo>
     <originInfo>
