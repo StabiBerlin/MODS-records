@@ -15,18 +15,14 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ལྷ་ས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">ལྷ་ས་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">lha sa</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">拉薩</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">拉薩</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Lasa</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Lhasa</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Tibet</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">བོད་ལྗོངས་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ལྷ་ས་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">lha sa</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">拉薩</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Lhasa</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+           <placeIdentifier>https://d-nb.info/gnd/4111286-6</placeIdentifier>
+          
+          
         </place>
     </originInfo>
     <name lang="chi">
