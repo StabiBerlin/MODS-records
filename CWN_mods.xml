@@ -15,14 +15,14 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཀ་ཏ་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" >ཀ་ཏ་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ka ta</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Calcutta</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">West Bengal</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཀ་ལིཀ་ཏ</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ka ta</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Calcutta</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">IND</placeTerm>
+            
+            <placeTerm type="text" authority="marc" lang="tib" >ཀ་ལིཀ་ཏ</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ka lig ta</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/4029344-0</placeIdentifier>
+            
         </place>
     </originInfo>
     <originInfo>
