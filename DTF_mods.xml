@@ -12,14 +12,12 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">རྡོ་རྗེ་གླིང་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" >རྡོ་རྗེ་གླིང་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">rdo rje gling</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Darjeeling</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">West Bengal</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">རྡོ་རྗེ་གླིང་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">rdo rje gling</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Darjeeling</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">IND</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/4011057-6</placeIdentifier>
+            
+           
         </place>
     </originInfo>
     <originInfo>
