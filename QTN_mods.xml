@@ -15,18 +15,17 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཟི་ལིང་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">zi ling</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">西寧</placeTerm>
+            
+            <placeTerm type="text" authority="marc" lang="chi">西寧</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Xining</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Xining</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Qinghai</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">མཚོ་སྔོན་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཟི་ལིང་</placeTerm>
+           
+           
+            <placeTerm type="text" authority="marc" lang="tib">ཟི་ལིང་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">zi ling</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">西寧</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Xining</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+			<placeIdentifier>https://d-nb.info/gnd/4435188-4</placeIdentifier> 
+            
+           
         </place>
     </originInfo>
     <originInfo>
