@@ -12,13 +12,12 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">པེ་ཅིན་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">པེ་ཅིན་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">pe cin</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Beijing</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">པེ་ཅིན་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+           <placeIdentifier>https://d-nb.info/gnd/4075971-4</placeIdentifier>
+           
         </place>
     </originInfo>
     <originInfo>
