@@ -15,18 +15,16 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">གཙོས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">གཙོས་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">gtsos</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">合作</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">合作</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Hezuo</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Zö</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Gansu</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཀན་སུའུ་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཀན་ལྷོ</placeTerm>
+            
+           
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">kan lho</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">甘南</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Gannan</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/1332758657</placeIdentifier>
         </place>
     </originInfo>
     <originInfo>
