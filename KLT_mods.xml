@@ -16,6 +16,7 @@
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">pe cin</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Beijing</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">北京</placeTerm>
            <placeIdentifier>https://d-nb.info/gnd/4075971-4</placeIdentifier>
            
         </place>
