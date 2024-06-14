@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="tib">
         <title>དར་མདོའི་གསར་འགྱུར་</title>
     </titleInfo>
