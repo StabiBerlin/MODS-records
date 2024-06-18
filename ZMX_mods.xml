@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="tib">
         <title>ཀྲུང་དབྱང་མི་རིགས་སློབ་གྲྭ་</title>
     </titleInfo>
@@ -19,14 +20,16 @@
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">pe cin</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">北京</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Beijing</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm><!-- en or de? -->
             <placeTerm type="text" authority="marc" lang="eng">Beijing</placeTerm>
+            <!-- seems superfluous -->
+            <!-- 
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">པེ་ཅིན་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">པེ་ཅིན་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">pe cin</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">北京</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Peking</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm> -->
         </place>
     </originInfo>
     <physicalDescription>

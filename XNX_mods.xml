@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="tib">
         <title>ལྷོ་ནུབ་མི་རིགས་སློབ་གྲྭ་ཆེན་མོ་</title>
     </titleInfo>
@@ -15,18 +16,20 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཁྲེན་ཏུའུ་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">ཁྲེན་ཏུའུ་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">khren tuʻu</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">成都</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">成都</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Chengdu</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Chengdu</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/4249575-1</placeIdentifier>
+            <!-- DP: seems superfluous -->
+            <!-- <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">སི་ཁྲོན་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཁྲེན་ཏུའུ་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">khren tuʻu</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">成都</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Chengdu</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm> -->
         </place>
     </originInfo>
     <physicalDescription>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="tib">
         <title>རྒྱ་གར་གཞུང་གི་གསར་སྤེལ་ལས་ཁུངས་སྒང་ཐོག</title>
     </titleInfo>
@@ -15,8 +16,6 @@
             <placeTerm type="text" authority="marc" lang="tib">སྒང་ཐོག</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">sgang thog</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Gangtok</placeTerm>
-            
-            
             <placeTerm type="text" authority="marc" lang="tib">གང་ཐོག་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">gang thog</placeTerm>
             <placeIdentifier>https://d-nb.info/gnd/4376532-4</placeIdentifier>

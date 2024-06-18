@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="eng">
         <title>&amp;quot;Tibet Mirror&amp;quot;</title>
     </titleInfo>
@@ -15,11 +16,8 @@
             <placeTerm type="text" authority="marc" lang="tib">ཀ་སྦུག</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ka sbug</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Kālimpong</placeTerm>
-           
-         
             <placeTerm type="text" authority="marc" lang="eng">Kalimpong</placeTerm>
             <placeIdentifier>https://d-nb.info/gnd/4346328-9</placeIdentifier>
-			
         </place>
     </originInfo>
     <originInfo>
@@ -77,7 +75,9 @@
     <note>1930.03.31 - 1963.11.01</note>
     <relatedItem type="host">
         <location>
-            <url>https://zdb-katalog.de/title.xhtml?idn=1284225577; https://clio.columbia.edu/catalog/6816438; https://permalink.obvsg.at/AC16810250</url>
+            <url>https://zdb-katalog.de/title.xhtml?idn=1284225577;
+                https://clio.columbia.edu/catalog/6816438;
+                https://permalink.obvsg.at/AC16810250</url>
         </location>
     </relatedItem>
     <recordInfo>

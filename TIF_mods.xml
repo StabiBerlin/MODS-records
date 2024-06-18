@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="eng">
         <title>&amp;quot;Tibetan Freedom&amp;quot;</title>
     </titleInfo>
@@ -15,9 +16,7 @@
             <placeTerm type="text" authority="marc" lang="tib">རྡོ་རྗེ་གླིང་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">rdo rje gling</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Darjeeling</placeTerm>
-         
-			<placeIdentifier>https://d-nb.info/gnd/4011057-6</placeIdentifier>
-		  
+            <placeIdentifier>https://d-nb.info/gnd/4011057-6</placeIdentifier>
         </place>
     </originInfo>
     <originInfo>
