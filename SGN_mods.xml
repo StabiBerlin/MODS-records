@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="tib">
         <title>ཀན་ལྷོ་གསར་འགྱུར་</title>
     </titleInfo>
@@ -20,11 +21,15 @@
             <placeTerm type="text" authority="marc" lang="chi">合作</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Hezuo</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Zö</placeTerm>
-            
-           
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">kan lho</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">甘南</placeTerm>
             <placeIdentifier>https://d-nb.info/gnd/1332758657</placeIdentifier>
+        </place>
+        <place>
+            
+            <placeTerm type="text" authority="marc" lang="tib">ཀན་ལྷོ</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">kan lho</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">甘南</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Gannan</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/1052333273</placeIdentifier>
         </place>
     </originInfo>
     <originInfo>
