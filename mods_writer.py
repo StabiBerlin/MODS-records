@@ -1,6 +1,7 @@
 from xml.etree import ElementTree as ET
 from datetime import date
 import os
+from collections import OrderedDict
 
 def safe_set_text(parent, tag, text, attributes=None):
     if text: 
@@ -64,7 +65,6 @@ def add_location_info(mods_root, record):
     collect_place_term(record, 'Prefecture_District_English', 'eng')
     collect_place_term(record, 'Country_SO_3166-1_alpha-3', 'eng')
 
-
     if place_terms:
         place = ET.SubElement(origin_info, 'place')
         for (text, lang, transliteration), value in place_terms.items():
@@ -80,9 +80,17 @@ def add_location_info(mods_root, record):
         place_id_elem = ET.SubElement(place, 'placeIdentifier', type="local")
         place_id_elem.text = place_identifier.text.strip()
 
+    place_gnd_id = record.find('Place_GND-ID')
+    if place_gnd_id is not None and place_gnd_id.text:
+        if not place_added:
+            place = ET.SubElement(origin_info, 'place')
+        gnd_term = ET.SubElement(place, 'placeTerm', type="code", authority="gnd")
+        gnd_term.text = place_gnd_id.text.strip()
+        place_added = True
+
     if not place_added:
         mods_root.remove(origin_info)
-
+        
 def add_publication_info(mods_root, record):
     origin_info = ET.SubElement(mods_root, 'originInfo')
     origin_info_added = False
