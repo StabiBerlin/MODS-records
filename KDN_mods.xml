@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="tib">
         <title>དར་མདོའི་གསར་འགྱུར་</title>
     </titleInfo>
@@ -15,16 +16,16 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">དར་རྩེ་མདོ་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">དར་རྩེ་མདོ་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">dar rtse mdo</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">康定</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">康定</placeTerm>
             <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Kangding</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Dartsedo</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Xikang</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཤིས་ཁམས་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">ཤིས་ཁམས་བོད་རིགས་རང་སྐྱོང་ས་ཁུལ་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">ཤིས་ཁམས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">ཤིས་ཁམས་བོད་རིགས་རང་སྐྱོང་ས་ཁུལ་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">dkar mdzes</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">西康省藏族自治區</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">西康省藏族自治區</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Xikang Province Tibetan Autonomous Region</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
         </place>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.8"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
     <titleInfo lang="tib">
         <title>མིང་ཀྱཱང་ཚགས་དཔར་</title>
     </titleInfo>
@@ -15,18 +16,13 @@
     </titleInfo>
     <originInfo>
         <place>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">མོང་ཞན་; ལྷ་རྒྱལ་གླིང་; འབར་ཁམས་</placeTerm>
+            <placeTerm type="text" authority="marc" lang="tib">མོང་ཞན་; ལྷ་རྒྱལ་གླིང་; འབར་ཁམས་</placeTerm>
             <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">mong zhan; lha rgyal gling; ʻbar khams</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">茂縣; 馬爾康</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Maoxian; Maerkang</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">茂縣; 馬爾康</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">Maoxian; Ma'erkang</placeTerm>
             <placeTerm type="text" authority="marc" lang="eng">Maoxian; Barkam</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Sichuan</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">སི་ཁྲོན་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">རྔ་བ་</placeTerm>
-            <placeTerm type="text" authority="marc" lang="tib" transliteration="Wylie">rnga ba</placeTerm>
-            <placeTerm type="text" authority="marc" lang="chi" transliteration="pinyin">阿壩</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">Aba</placeTerm>
-            <placeTerm type="text" authority="marc" lang="eng">CHN</placeTerm>
+            <placeTerm type="text" authority="marc" lang="chi">阿壩</placeTerm>
+            <placeIdentifier>https://d-nb.info/gnd/1151895776</placeIdentifier>
         </place>
     </originInfo>
     <originInfo>
@@ -60,7 +56,8 @@
     <note>1953.06.01 - 1959.03.28 (incomplete)</note>
     <relatedItem type="host">
         <location>
-            <url>https://zdb-katalog.de/title.xhtml?idn=1284121666; https://kramerius.lib.cas.cz/uuid/uuid:d61a114e-f776-4dce-9c09-865eb703e177</url>
+            <url>https://zdb-katalog.de/title.xhtml?idn=1284121666;
+                https://kramerius.lib.cas.cz/uuid/uuid:d61a114e-f776-4dce-9c09-865eb703e177</url>
         </location>
     </relatedItem>
     <recordInfo>
