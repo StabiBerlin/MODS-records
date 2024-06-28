@@ -52,14 +52,14 @@ def add_location_info(mods_root, record):
             place_terms[key] = element.text.strip()
 
     # Collect all place terms
-    collect_place_term(record, 'Place_name_Tibetan', 'tib', 'Wylie')
+    collect_place_term(record, 'Place_name_Tibetan', 'tib')
     collect_place_term(record, 'Place_Wylie', 'tib', 'Wylie')
     collect_place_term(record, 'Place_Chinese', 'chi', 'pinyin')
     collect_place_term(record, 'Place_pinyin', 'chi', 'pinyin')
     collect_place_term(record, 'Place_English', 'eng')
     collect_place_term(record, 'Province_English', 'eng')
-    collect_place_term(record, 'Province_Tibetan', 'tib', 'Wylie')
-    collect_place_term(record, 'Prefectur_District_Tibetan', 'tib', 'Wylie')
+    collect_place_term(record, 'Province_Tibetan', 'tib')
+    collect_place_term(record, 'Prefectur_District_Tibetan', 'tib')
     collect_place_term(record, 'Prefecture_District_Wylie', 'tib', 'Wylie')
     collect_place_term(record, 'Prefectur_District_Chinese', 'chi', 'pinyin')
     collect_place_term(record, 'Prefecture_District_English', 'eng')
